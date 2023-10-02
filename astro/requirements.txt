@@ -1,0 +1,7 @@
+requests
+w3lib
+price_parser
+boto3
+scrapy
+pendulum
+fuzzywuzzy

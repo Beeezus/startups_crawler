@@ -1,0 +1,1 @@
+FROM astronomerinc/ap-airflow:1.10.5-11-buster-onbuild
